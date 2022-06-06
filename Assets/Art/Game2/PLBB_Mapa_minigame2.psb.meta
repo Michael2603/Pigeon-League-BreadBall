@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 919fb695f2b2ed74b8476b4553bcaff9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 0
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: PLBB_Mapa_minigame2_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 5206
+      height: 1694
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: 1plano_Grama
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5095
+      y: 1706
+      width: 2967
+      height: 437
+    spriteID: aeeb36245993c5b41beccc2d9426544f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3938, y: 1706}
+  - name: 2plano_Pombos
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 2759
+      width: 779
+      height: 633
+    spriteID: 1b0f9d73c19e76c48bdcb77650f7384c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1255, y: 2398}
+  - name: 2plano_plataforma
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2624
+      y: 1706
+      width: 2417
+      height: 543
+    spriteID: 5eb6aafa6f406b343b179df70dc9fba0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1312, y: 1706}
+  - name: 3plano_nuvem de pombos
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 7, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 78
+      y: 1706
+      width: 2510
+      height: 1045
+    spriteID: 59967d02d979aa74a8db99b154f91fcf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1206, y: 1324}
+  - name: 3plano_nuvens
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2596
+      y: 2257
+      width: 1862
+      height: 177
+    spriteID: b4f62010d9058764a9995fecb313372d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 504, y: 1138}
+  - name: "3plano_c\xE9u"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5218
+      y: 4
+      width: 2502
+      height: 1694
+    spriteID: 20ffc8072e1ddd14fa9d44a6846731cd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3932, y: 4}
+  - name: Plano de Fundo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 5206
+      height: 1694
+    spriteID: 9e146a3d3da4b1240bfd39d03345c367
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  rigSpriteImportData:
+  - name: 1plano_Grama
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5095
+      y: 1706
+      width: 2967
+      height: 437
+    spriteID: 487755c318b76164d9a8b86bec4244e5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3938, y: 1706}
+  - name: 2plano_Pombos
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2759
+      width: 895
+      height: 633
+    spriteID: d9a86cfd317f16d44b4b42a9f0ea77f7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1255, y: 2398}
+  - name: 2plano_plataforma
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2596
+      y: 1706
+      width: 2491
+      height: 543
+    spriteID: 2c3da9620b653074fa3f5853ab0d66ee
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1312, y: 1706}
+  - name: 3plano_nuvem de pombos
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1706
+      width: 2584
+      height: 1045
+    spriteID: 7a9faba063d6f9046bc18eb8d7617450
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1206, y: 1324}
+  - name: 3plano_nuvens
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2596
+      y: 2257
+      width: 1164
+      height: 177
+    spriteID: c999379e2ce5c3040940715459b4e93c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 504, y: 1138}
+  - name: "3plano_c\xE9u"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5218
+      y: 4
+      width: 2502
+      height: 1694
+    spriteID: e7f37325c088c9140a7f16090936ad1f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3932, y: 4}
+  - name: Plano de Fundo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 5206
+      height: 1694
+    spriteID: 5b2b5a74c6bbc664e8f5ef19eeeb521e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 4096
+  importedTextureHeight: 4096
+  documentSize: {x: 5206, y: 1694}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 8192
+  textureActualHeight: 8192
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: 2 minigame
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 26
+    mosaicPosition: {x: 0, y: 0}
+  - name: 1plano_Grama
+    spriteName: 1plano_Grama
+    isGroup: 0
+    parentIndex: 0
+    spriteID: aeeb36245993c5b41beccc2d9426544f
+    layerID: 17
+    mosaicPosition: {x: 5095, y: 1706}
+  - name: 2plano_Pombos
+    spriteName: 2plano_Pombos
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1b0f9d73c19e76c48bdcb77650f7384c
+    layerID: 61
+    mosaicPosition: {x: 4, y: 2759}
+  - name: 2plano_plataforma
+    spriteName: 2plano_plataforma
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5eb6aafa6f406b343b179df70dc9fba0
+    layerID: 34
+    mosaicPosition: {x: 2596, y: 1706}
+  - name: 3plano_nuvem de pombos
+    spriteName: 3plano_nuvem de pombos
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 59967d02d979aa74a8db99b154f91fcf
+    layerID: 48
+    mosaicPosition: {x: 4, y: 1706}
+  - name: 3plano_nuvens
+    spriteName: 3plano_nuvens
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b4f62010d9058764a9995fecb313372d
+    layerID: 5
+    mosaicPosition: {x: 2596, y: 2257}
+  - name: "3plano_c\xE9u"
+    spriteName: "3plano_c\xE9u"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 20ffc8072e1ddd14fa9d44a6846731cd
+    layerID: 35
+    mosaicPosition: {x: 5218, y: 4}
+  - name: Plano de Fundo
+    spriteName: Plano de Fundo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9e146a3d3da4b1240bfd39d03345c367
+    layerID: 1
+    mosaicPosition: {x: 4, y: 4}
+  rigPSDLayers:
+  - name: 2 minigame
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 26
+    mosaicPosition: {x: 0, y: 0}
+  - name: 1plano_Grama
+    spriteName: 1plano_Grama
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 487755c318b76164d9a8b86bec4244e5
+    layerID: 17
+    mosaicPosition: {x: 5095, y: 1706}
+  - name: 2plano_Pombos
+    spriteName: 2plano_Pombos
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d9a86cfd317f16d44b4b42a9f0ea77f7
+    layerID: 61
+    mosaicPosition: {x: 4, y: 2759}
+  - name: 2plano_plataforma
+    spriteName: 2plano_plataforma
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2c3da9620b653074fa3f5853ab0d66ee
+    layerID: 34
+    mosaicPosition: {x: 2596, y: 1706}
+  - name: 3plano_nuvem de pombos
+    spriteName: 3plano_nuvem de pombos
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7a9faba063d6f9046bc18eb8d7617450
+    layerID: 48
+    mosaicPosition: {x: 4, y: 1706}
+  - name: 3plano_nuvens
+    spriteName: 3plano_nuvens
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c999379e2ce5c3040940715459b4e93c
+    layerID: 5
+    mosaicPosition: {x: 2596, y: 2257}
+  - name: "3plano_c\xE9u"
+    spriteName: "3plano_c\xE9u"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e7f37325c088c9140a7f16090936ad1f
+    layerID: 35
+    mosaicPosition: {x: 5218, y: 4}
+  - name: Plano de Fundo
+    spriteName: Plano de Fundo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5b2b5a74c6bbc664e8f5ef19eeeb521e
+    layerID: 1
+    mosaicPosition: {x: 4, y: 4}
+  sharedRigPSDLayers: []
+  generateGOHierarchy: 0
+  textureAssetName: PLBB_Mapa_minigame2 Texture
+  prefabAssetName: PLBB_Mapa_minigame2 Prefab
+  spriteLibAssetName: PLBB_Mapa_minigame2 Sprite Lib
+  skeletonAssetName: PLBB_Mapa_minigame2 Skeleton
+  secondarySpriteTextures: []
